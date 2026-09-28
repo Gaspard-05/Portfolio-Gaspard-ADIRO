@@ -95,11 +95,11 @@ Rédaction des documents sur : Mérise , UML , BPMN , Sprint.
 
 <div align="center">
 
-📧 **Email :** [isidore352@gmail.com](mailto:gaspardadiro@gmail.com)
+📧 **Email :** [E-mailGaspard Olouwafèmi ADIRO](mailto:gaspardadiro@gmail.com)
 
-💼 **LinkedIn :** [Isidore Christi Zinsou](https://www.linkedin.com/in/gaspard-adiro-8208933b0/)
+💼 **LinkedIn :** [LinkedInGaspard Olouwafèmi ADIRO ](https://www.linkedin.com/in/gaspard-adiro-8208933b0/)
 
-🐙 **GitHub :** [isidore352-ctrl](https://github.com/Gaspard-05)
+🐙 **GitHub :** [GitHub Gaspard Olouwafèmi ADIRO](https://github.com/Gaspard-05)
 
 </div>
 
