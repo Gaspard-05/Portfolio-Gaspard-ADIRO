@@ -45,7 +45,7 @@ J'aime transformer des idées en solutions numériques concrètes, en travaillan
 ### Back-End 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel," />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql," />
 </p>
 
 ### Outils
@@ -70,7 +70,7 @@ J'aime transformer des idées en solutions numériques concrètes, en travaillan
 
 Application web destinée à la présentation de l'école , les formations de l'école , permettant aussi la pré-inscription des étudiants et aussi le télechargements du catalogue des formations
 
-**Technologies :** React | Laravel | MySQL | Postman
+**Technologies :** React | Laravel | MySQL | Postman | FileZilla
 
 ---
 
@@ -95,11 +95,11 @@ Rédaction des documents sur : Mérise , UML , BPMN , Sprint.
 
 <div align="center">
 
-📧 **Email :** [isidore352@gmail.com](mailto:isidore352@gmail.com)
+📧 **Email :** [isidore352@gmail.com](mailto:gaspardadiro@gmail.com)
 
-💼 **LinkedIn :** [Isidore Christi Zinsou](https://www.linkedin.com/in/isidore-christi-zinsou-4562853b0)
+💼 **LinkedIn :** [Isidore Christi Zinsou](https://www.linkedin.com/in/gaspard-adiro-8208933b0/)
 
-🐙 **GitHub :** [isidore352-ctrl](https://github.com/isidore352-ctrl)
+🐙 **GitHub :** [isidore352-ctrl](https://github.com/Gaspard-05)
 
 </div>
 
@@ -109,6 +109,6 @@ Rédaction des documents sur : Mérise , UML , BPMN , Sprint.
 
 ### Merci de visiter mon profil !
 
-**Construisons quelque chose de génial ensemble **
+**Construisons quelque chose de sécurisée et impactant ensemble **
 
 </div>
