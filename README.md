@@ -95,9 +95,9 @@ Rédaction des documents sur : Mérise , UML , BPMN , Sprint.
 
 <div align="center">
 
-📧 **Email :** [E-mailGaspard Olouwafèmi ADIRO](mailto:gaspardadiro@gmail.com)
+📧 **Email :** [E-mail Gaspard Olouwafèmi ADIRO](mailto:gaspardadiro@gmail.com)
 
-💼 **LinkedIn :** [LinkedInGaspard Olouwafèmi ADIRO ](https://www.linkedin.com/in/gaspard-adiro-8208933b0/)
+💼 **LinkedIn :** [LinkedIn Gaspard Olouwafèmi ADIRO ](https://www.linkedin.com/in/gaspard-adiro-8208933b0/)
 
 🐙 **GitHub :** [GitHub Gaspard Olouwafèmi ADIRO](https://github.com/Gaspard-05)
 
