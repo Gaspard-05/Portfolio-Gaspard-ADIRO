@@ -39,7 +39,7 @@ J'aime transformer des idées en solutions numériques concrètes, en travaillan
 ### Front-End
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,livewire" />
 </p>
 
 ### Back-End 
